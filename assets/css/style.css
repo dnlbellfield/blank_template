@@ -48,7 +48,7 @@
           padding: 10px 0;
           line-height: normal; } }
       .main-header .navbar-nav > .nav-item > .nav-link:hover, .main-header .navbar-nav > .nav-item > .nav-link.active {
-        color: #6A7897; }
+        color: #000000; }
   @media (max-width:767px) {
     .main-header .navbar-toggler {
       display: -ms-flexbox;
